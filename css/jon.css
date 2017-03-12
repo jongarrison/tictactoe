@@ -1,0 +1,23 @@
+
+body {
+    margin: 50px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+td {
+    text-align: center;
+}
+
+td {
+    padding: 10px;
+    margin: 10px;
+    height: 30px;
+    width: 30px;
+}
